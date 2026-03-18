@@ -1,3 +1,7 @@
-Contains sample textual data used for building the vector database
-Acts as the knowledge base for retrieval
-Can be extended with real-world data
+documents = [
+    "Artificial Intelligence is transforming the world.",
+    "Machine Learning is a subset of AI.",
+    "Vector databases store embeddings for similarity search.",
+    "Endee is a high-performance vector database.",
+    "RAG combines retrieval with text generation."
+]
