@@ -6,6 +6,16 @@ This project demonstrates a **Retrieval-Augmented Generation (RAG)** system buil
 
 The system retrieves relevant information from stored data using **semantic search** and generates meaningful responses. It also includes a basic encryption module to simulate secure data handling.
 
+🔐 Queryable Encryption
+
+This project demonstrates a basic simulation of queryable encryption.
+
+- Data is encrypted before storage
+- Queries are processed without exposing raw data
+- Ensures privacy-preserving search
+
+This aligns with Endee’s vision of secure and efficient vector search.
+
 ---
 
 ## 🚀 Features
