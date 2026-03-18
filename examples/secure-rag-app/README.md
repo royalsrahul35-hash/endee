@@ -157,12 +157,6 @@ This project is built as part of the Endee evaluation process and follows a **ve
 
 ---
 
-## 🎥 Demo
-
-(Add your demo video link here)
-
----
-
 ## 📌 Submission
 
 This project is submitted as part of the Endee hiring evaluation.
