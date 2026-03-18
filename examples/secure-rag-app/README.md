@@ -16,6 +16,16 @@ This project demonstrates a basic simulation of queryable encryption.
 
 This aligns with Endee’s vision of secure and efficient vector search.
 
+💡 Why Endee?
+
+Endee is designed for:
+- High-performance vector search
+- Low-latency retrieval
+- Secure queryable encryption
+
+This project demonstrates how such a system can be used
+to build scalable and secure AI applications.
+
 ---
 
 ## 🚀 Features
