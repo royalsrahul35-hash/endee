@@ -1,4 +1,12 @@
-# 🔐 Secure RAG Application using Endee
+# 🔐 Secure RAG Application using Endee Vector Database
+
+<h3 align="center">⚡ Semantic Search • 🔐 Queryable Encryption • 🤖 RAG Pipeline</h3>
+
+<p align="center">
+A scalable AI system demonstrating fast and secure vector search inspired by Endee.
+</p>
+
+---
 
 ## 📌 Project Overview
 
