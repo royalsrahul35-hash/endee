@@ -18,3 +18,4 @@ def main():
 if __name__ == "__main__":
     ingest_data()
     main()
+    print("Using vector-based semantic retrieval (Endee-inspired)")
